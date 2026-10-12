@@ -2,7 +2,7 @@
     {
         "path": "404.html",
         "type": "file",
-        "md5": "8b68485840ef99f5ce4b5f484eda46b4"
+        "md5": "ffbcedae86d3655a8c060b35fc3d1d2e"
     },
     {
         "path": "about-us",
@@ -12,7 +12,7 @@
     {
         "path": "/about-us/index.html",
         "type": "file",
-        "md5": "b2880eb664dac0ef9b066c7110f1283f"
+        "md5": "096d2449584e6f5034a0a443f2cfe08b"
     },
     {
         "path": "assets",
@@ -42,7 +42,7 @@
     {
         "path": "/assets/css/style.css",
         "type": "file",
-        "md5": "4d806e68f114f2f853df749737f83210"
+        "md5": "0f0c1cea1f9e9253befc2fb3371e8c51"
     },
     {
         "path": "assets/dynamic",
@@ -147,7 +147,7 @@
     {
         "path": "/authors/dekins-arteen/index.html",
         "type": "file",
-        "md5": "8b7bf91d04ec7bf35a7dc78853dcb55f"
+        "md5": "622df2ce4ef1976f4350a36a86105d1b"
     },
     {
         "path": "contact-us",
@@ -157,7 +157,7 @@
     {
         "path": "/contact-us/index.html",
         "type": "file",
-        "md5": "e2f218203a1e41803efc32d788bf3e68"
+        "md5": "c649ff99a75afd19f42f5746b1979861"
     },
     {
         "path": "creating-bright-and-timeless-scandinavian-interiors",
@@ -167,22 +167,22 @@
     {
         "path": "/creating-bright-and-timeless-scandinavian-interiors/index.html",
         "type": "file",
-        "md5": "c02685d3504efadd7a90749a5c68c906"
+        "md5": "9c0545bb98836f02d661f41c302f27af"
     },
     {
         "path": "feed.json",
         "type": "file",
-        "md5": "cd8db43eab93059aa4fa1eff4f83d45c"
+        "md5": "96688aaf5206e66cda683bac4686716f"
     },
     {
         "path": "feed.xml",
         "type": "file",
-        "md5": "98ee81a3e90fdc47d9a776b93a5a64a0"
+        "md5": "dffac231ee35b1011b4dce1f21c5b1dc"
     },
     {
         "path": "index.html",
         "type": "file",
-        "md5": "a125fa6c446df1cb779bd2d8ce3c5a2c"
+        "md5": "bb4257a64dd6ff068b6ce9435b26e440"
     },
     {
         "path": "light-wood-finishes-a-natural-foundation-for-scandinavian-design",
@@ -192,7 +192,7 @@
     {
         "path": "/light-wood-finishes-a-natural-foundation-for-scandinavian-design/index.html",
         "type": "file",
-        "md5": "17611d39058c283f6dbd20acf6aecac0"
+        "md5": "ee53f6db1347c98dcf4c11aa6a70c006"
     },
     {
         "path": "media",
@@ -220,6 +220,16 @@
         "md5": "33dcd36e443d174fe673c7cb9695e2d8"
     },
     {
+        "path": "neutral-tones-the-key-to-a-calm-and-elegant-scandinavian-interior",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/neutral-tones-the-key-to-a-calm-and-elegant-scandinavian-interior/index.html",
+        "type": "file",
+        "md5": "77144e5e8775a7dae7ee316a55ab272f"
+    },
+    {
         "path": "privacy-policy",
         "type": "directory",
         "md5": false
@@ -227,7 +237,7 @@
     {
         "path": "/privacy-policy/index.html",
         "type": "file",
-        "md5": "6af1a551c473d36e302eea18ce6be914"
+        "md5": "73465208bb88747a01014f2dac3df660"
     },
     {
         "path": "robots.txt",
@@ -237,7 +247,7 @@
     {
         "path": "sitemap.xml",
         "type": "file",
-        "md5": "0aa2142da21bc0b60951d93af06ae916"
+        "md5": "7205bc02b443f3f02c6fc8681147da7a"
     },
     {
         "path": "sitemap.xsl",
@@ -257,11 +267,11 @@
     {
         "path": "/tags/french-style-furniture/index.html",
         "type": "file",
-        "md5": "cfb7789871d249361c14153698c3bba6"
+        "md5": "1b8ae5d62c97b3b2172057c76b45b955"
     },
     {
         "path": "/tags/index.html",
         "type": "file",
-        "md5": "a29931b86da9b7fdfb4130999e4ed735"
+        "md5": "16113a63e6db582a4451590b6ea6a08b"
     }
 ]
